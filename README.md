@@ -2,7 +2,7 @@
 
 A bespoke, highly adaptable user interface for the Stable Diffusion, utilizing the powerful Gradio library. This cutting-edge browser interface offer an unparalleled level of customization and optimization for users, setting it apart from other web interfaces.
 
-![](screenshot.png)
+
 
 ## Optimizasions
 - Replacing all default Gradio stylesheets in the DOM with an optimized version that promote better visual coherence across components.
