@@ -22,7 +22,7 @@ A bespoke, highly adaptable user interface for the Stable Diffusion, utilizing t
 ## Workspaces UI-UX (work in progress)
 The workspaces extension empowers you to create customized views and organize them according to your unique preferences. With an intuitive drag-and-drop interface, you can design workflows that are perfectly tailored to your specific requirements, giving you ultimate control over your work environment.
 
-![workspaces](https://github.com/anapnoe/stable-diffusion-webui-ux/assets/124302297/15db3c70-6fbf-4692-85f3-85cd8df58f47)
+
 
 [Become a supporter and get early access to Workspaces for UI-UX.](https://buymeacoffee.com/dayanbayah)
 
